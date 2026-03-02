@@ -107,7 +107,7 @@ export default function Portfolio() {
 
   const positions = [
     {
-      title: 'Head Coordinator',
+      title: 'senior Head Developer',
       organization: 'Big Data Centre of Excellence',
       period: 'November 2023 - June 2025',
       highlights: [
