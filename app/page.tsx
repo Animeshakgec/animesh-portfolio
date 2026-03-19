@@ -100,7 +100,7 @@ export default function Portfolio() {
       subtitle: 'Employee & Attendance Management System',
       description: 'A web-based HRMS platform that enables admins to manage employees, track daily attendance, and monitor workforce insights through an interactive dashboard.',
       tech: ['Nextjs', 'Node.js', 'ProtgresSQL','TailwindCSS'],
-      github: 'https://github.com/Animeshakgec/DevCollab'
+      github: 'https://github.com/Animeshakgec/animesh-portfolio'
     },
     {
       title: 'TaskFlow',
