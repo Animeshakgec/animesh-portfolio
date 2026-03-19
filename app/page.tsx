@@ -96,6 +96,13 @@ export default function Portfolio() {
       github: 'https://github.com/Animeshakgec/DevCollab'
     },
     {
+      title: 'HRMS-System',
+      subtitle: 'Employee & Attendance Management System',
+      description: 'A web-based HRMS platform that enables admins to manage employees, track daily attendance, and monitor workforce insights through an interactive dashboard.',
+      tech: ['Nextjs', 'Node.js', 'ProtgresSQL','TailwindCSS'],
+      github: 'https://github.com/Animeshakgec/DevCollab'
+    },
+    {
       title: 'TaskFlow',
       subtitle: 'Project Management Tool',
       description: 'A comprehensive project management tool for creating, assigning, and tracking tasks with team collaboration.',
