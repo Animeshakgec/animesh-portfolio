@@ -103,12 +103,12 @@ export default function Portfolio() {
       github: 'https://github.com/Animeshakgec/animesh-portfolio'
     },
     {
-      title: 'HRMS-MCPServer',
-      subtitle: 'AI-Powered HRMS Automation with MCP & Agents on slack',
-      description: 'An AI-powered HRMS platform integrated with an MCP Server and intelligent agents that automate employee management, attendance queries, and HR workflows through natural language conversations. Users can interact directly via Slack messages, enabling seamless HR operations through AI-driven API orchestration. ',
-      tech: ['Node.js', 'MCP Protocol', 'Gemini/LLM', 'Express.js', 'PostgreSQL', 'AI Agents'],
-      github: 'https://github.com/Animeshakgec/hrms-mcp-server'
-    },
+  title: 'HRMS-MCPServer',
+  subtitle: 'AI-Powered HRMS Automation with MCP & Agents',
+  description: 'An AI-enabled HRMS system integrated with an MCP Server and intelligent agents that automate employee operations, attendance queries, and HR workflows through natural language interactions and API orchestration.',
+  tech: ['Node.js', 'MCP Protocol', 'OpenAI/LLM', 'Express.js', 'PostgreSQL', 'AI Agents'],
+  github: 'https://github.com/Animeshakgec/animesh-portfolio'
+},
     {
       title: 'TaskFlow',
       subtitle: 'Project Management Tool',
